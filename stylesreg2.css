@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr&family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: #BF9D9D;
+}
+.container {
+    max-width: 75%;
+    margin-left: 225px;
+    padding-bottom: 50px;
+    
+}
+#regtext {
+    font: normal 60px 'Mitr', sans-serif;
+   padding-left: 210px;
+   
+    
+}
+.logo img {
+    width: 200px;
+    margin-left: 63px;
+    padding-bottom: 25px;
+    padding-top: 16px;
+}
+#name {
+    size: 100px;
+    width: 200px;
+	font-size: 16px;
+    
+	padding: 10px 10px 10px 20px;
+
+	background: #ffffff;
+	border-radius: 8px;
+    box-shadow: 0px 0px 20px 2px #f1f1f1a2;
+
+}
+#name:hover {
+    box-shadow: 0 0 10px 0 #BF9D9D inset, 0 0 10px 4px #BF9D9D;
+}
+#email {
+    size: 100px;
+    width: 200px;
+	font-size: 16px;
+    
+	padding: 10px 10px 10px 20px;
+
+	background: #ffffff;
+	border-radius: 8px;
+    box-shadow: 0px 0px 20px 2px #f1f1f1a2;
+}
+#email:hover {
+    box-shadow: 0 0 10px 0 #BF9D9D inset, 0 0 10px 4px #BF9D9D;
+}
+#number {
+    size: 100px;
+    width: 200px;
+	font-size: 16px;
+    
+	padding: 10px 10px 10px 20px;
+
+	background: #ffffff;
+	border-radius: 8px;
+    box-shadow: 0px 0px 20px 2px #f1f1f1a2;
+}
+#number:hover {
+    box-shadow: 0 0 10px 0 #BF9D9D inset, 0 0 10px 4px #BF9D9D;
+}
+#text {
+    size: 100px;
+    width: 200px;
+	font-size: 16px;
+    
+	padding: 10px 10px 10px 20px;
+
+	background: #ffffff;
+	border-radius: 8px;
+    box-shadow: 0px 0px 20px 2px #f1f1f1a2;
+
+}
+#text:hover {
+    box-shadow: 0 0 10px 0 #BF9D9D inset, 0 0 10px 4px #BF9D9D;
+}
+#submit {
+    size: 100px;
+    width: 100px;
+	font-size: 13px;
+	padding: 10px 10px 10px 10px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 2px #f1f1f1a2;   
+}
+
+#submit:hover {
+    box-shadow: 0 0 10px 0 #BF9D9D inset, 0 0 10px 4px #BF9D9D;
+}
+.containerforms label {
+    font-size: 20px;
+}
+.containerforms {
+    padding-top: 70px;
+padding-bottom: 39px;    
+background: linear-gradient(to right,rgb(0, 0, 0),   rgb(62, 4, 85), rgb(64, 0, 94),  rgb(64, 0, 94),  rgb(0, 0, 0),  rgb(0, 0, 0));
+
+}
+#img {
+    position: absolute; 
+    width: 17%;
+    padding-left: 1050px;
+    margin-top: -85.7px;
+}
+#hr1 {
+    background: linear-gradient(to right,rgb(64, 1, 94),   #BF9D9D, #BF9D9D,    rgb(64, 1, 94));
+    border: 5px;
+}
+#hr2 {
+    background: linear-gradient(to right,rgb(64, 1, 94),   #BF9D9D, #BF9D9D,    rgb(64, 1, 94));
+    border: 5px;
+}
+#all {
+    margin-top: 25px;
+}
+#policy {
+    color: #BF9D9D;
+    text-decoration:none;
+}
+#policy:hover {
+    color: #5e3999;
+}
+#site {
+    padding-left: 11px;
+    text-decoration: none;
+    color: #BF9D9D;   
+}
+#site:hover {
+    color: #5e3999;
+}
